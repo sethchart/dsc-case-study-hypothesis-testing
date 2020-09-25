@@ -1,13 +1,8 @@
 # Case Study - Hypothesis Testing
 
-## Where stuff is 
-* `notebooks/student.ipynb` -> notebook where work goes
-* `data/northWind.sqlite` -> dataset you'll be using
-* `images/` -> put any images you use here
-* `notebooks/` -> if you make extra notebooks, put them here
-
 ## Question 1: Is there a difference in quantity of products sold by discount rate?
 
+View notebook [Here]('notebooks/Question1.ipynb')
 * Investigate Data
     * Obtain Necessary Data
     
