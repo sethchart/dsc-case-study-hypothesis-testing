@@ -6,19 +6,20 @@
 * `images/` -> put any images you use here
 * `notebooks/` -> if you make extra notebooks, put them here
 
-## Deliverables
-* Notebooks(s) with questions answered
-    * hypothesis tests conducted correctly
-    * test for normality
-* Three code snippets to share with others
-    * Did you write a cool function? 
-    * Did you create a .py File
-    * Did you make a class that will take in data and test it?
-    * Did you make a function for visualizations?
-* Custom README.md
-    * Show Intro
-    * Show Questions
-* No Presentation (Unless you want to make one)
+## Question 1: Is there a difference in quantity of products sold by discount rate?
+
+* Investigate Data
+    * Obtain Necessary Data
+    
+* ANOVA Test
+    * Defining H0, HA and alpha
+    * ANOVA Assumptions
+    * Perform statistical tests
+* Conclusion
+
+## Question 2: 
+
+## Question 3:
 
 ## Instructions
 You are a DS working for Northwind, a supplier company.  Your job is find interesting relationships in their database.  They have tasked you with two questions. You'll find these in the notebooks. You are then tasked to dig into the data in a way that you find interesting.
