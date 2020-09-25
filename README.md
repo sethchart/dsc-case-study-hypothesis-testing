@@ -2,7 +2,7 @@
 
 ## Question 1: Is there a difference in quantity of products sold by discount rate?
 
-View notebook [Here]('notebooks/Question1.ipynb')
+View notebook [Here](notebooks/Question1.ipynb)
 * Investigate Data
     * Obtain Necessary Data
     
