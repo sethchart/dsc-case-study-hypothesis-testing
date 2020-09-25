@@ -3,6 +3,7 @@
 ## Question 1: Is there a difference in quantity of products sold by discount rate?
 
 View notebook [Here](notebooks/Question1.ipynb)
+
 * Investigate Data
     * Obtain Necessary Data
     
@@ -15,6 +16,8 @@ View notebook [Here](notebooks/Question1.ipynb)
 ## Question 2: 
 
 ## Question 3: Is there a difference in mean sales between Sales Managers and Sales Representatives?
+
+View notebook [Here](notebooks/Question2.ipynb)
 
 To answer this question, we collected all products purchased from the `OrderDetail` table with their `UnitPrice`, `Quantity`, and `Discount`. For each row, we also joined on `OrderId` to obtain information about the sales employee associated with the order. Specifically, we collected `Employee Id` and `Title` from the `Employee` table.
 
