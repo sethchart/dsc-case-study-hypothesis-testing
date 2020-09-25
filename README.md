@@ -27,12 +27,12 @@ Next, we computed the total cost of items represented in each row by discounting
 
 With the data adequately processed, we split the order totals into two samples based on the title of the responsible sales employee. With these samples in hand, we plan to use a Welch's t-test to check for a difference in means. We inspected the distributions of the price per sale and noted substantial right skew in the distributions, however both samples were large enough that the Central Limit Theorem insures sufficient normality in the sampling distributions of the sample means. 
 
-<img src='../images/sales.png' width='500'/>
+<img src='images/sales.png' width='500'/>
 
 ### Conclusion
 Based on the outcome of our t-test (p = 0.99), we fail to reject the null hypothesis that there is no difference in the mean sales for representatives and managers.
 
-<img src='../images/meme.jpeg' width='500'/>
+<img src='images/meme.jpeg' width='500'/>
 ## Instructions
 You are a DS working for Northwind, a supplier company.  Your job is find interesting relationships in their database.  They have tasked you with two questions. You'll find these in the notebooks. You are then tasked to dig into the data in a way that you find interesting.
 
